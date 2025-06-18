@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Materialize-EB5757?style=for-the-badge&logo=materializecss&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/VB.NET-%238C92AC?style=for-the-badge&logo=.net&logoColor=white" height="30" />
