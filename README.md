@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/VB.NET-%238C92AC?style=for-the-badge&logo=.net&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/-Wix-000000?style=for-the-badge&logo=wix&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Framer-%23000000?style=for-the-badge&logo=framer&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Squarespace-%23000000?style=for-the-badge&logo=squarespace&logoColor=white" height="30" />
  <img src="https://img.shields.io/badge/-ClickFunnels-0B1F34?style=for-the-badge&logo=clickup&logoColor=white" height="30"/>
