@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Materialize-EB5757?style=for-the-badge&logo=materializecss&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/VB.NET-%238C92AC?style=for-the-badge&logo=.net&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=wordpress&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Figma-%2300C4CC?style=for-the-badge&logo=figma&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30" />
@@ -30,14 +36,7 @@
   <img src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/XD-%23FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Materialize-EB5757?style=for-the-badge&logo=materializecss&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30" />
-  
-  <img src="https://img.shields.io/badge/NuGet-%23004880?style=for-the-badge&logo=nuget&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/VB.NET-%238C92AC?style=for-the-badge&logo=.net&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="30"/>
    <img src="https://img.shields.io/badge/-Wix-000000?style=for-the-badge&logo=wix&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" height="30"/>
