@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/XD-%23FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Materialize-EB5757?style=for-the-badge&logo=materializecss&logoColor=white" height="30"/>
