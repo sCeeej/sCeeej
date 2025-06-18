@@ -43,6 +43,14 @@
  <img src="https://img.shields.io/badge/-ClickFunnels-0B1F34?style=for-the-badge&logo=clickup&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Filmora-%2300B712?style=for-the-badge&logo=filmora&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/CapCut-%23000000?style=for-the-badge&logo=capcut&logoColor=white" height="30" />
+   <img src="https://img.shields.io/badge/-Lean%20UX-FF6F00?style=for-the-badge&logo=leanpub&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Agile%20UX-36C?style=for-the-badge&logo=scrumalliance&logoColor=white" height="30"/>
 </p>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sCeeej&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sCeeej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
