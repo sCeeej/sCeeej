@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" />
+
+ <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
+  
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Materialize-EB5757?style=for-the-badge&logo=materializecss&logoColor=white" height="30"/>
@@ -33,6 +36,7 @@
   <img src="https://img.shields.io/badge/Figma-%2300C4CC?style=for-the-badge&logo=figma&logoColor=white" height="30" />
    <img src="https://img.shields.io/badge/-Wix-000000?style=for-the-badge&logo=wix&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Framer-%23000000?style=for-the-badge&logo=framer&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-GoHighLevel-FF9900?style=for-the-badge&logo=high&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Squarespace-%23000000?style=for-the-badge&logo=squarespace&logoColor=white" height="30" />
  <img src="https://img.shields.io/badge/-ClickFunnels-0B1F34?style=for-the-badge&logo=clickup&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
@@ -53,7 +57,6 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sCeeej&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sCeeej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
