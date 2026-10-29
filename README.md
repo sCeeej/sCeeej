@@ -6,12 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carljemarcgonzales@gmail.com)](mailto:carljemarcgonzales@gmail.com)
 
 <br>
-<h1 align="left">Tech Stack💻</h1>
-
-###
-
-
-<h1 align="left"></h1>
 
 ###
 <div align="center">
